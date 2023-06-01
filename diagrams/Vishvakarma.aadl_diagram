@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="ASCII"?>
+<diagram:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:diagram="http://osate.org/diagram" formatVersion="7">
+  <element uuid="2c6feadf-51d5-4a6c-8025-0589502810b0" manual="true">
+    <element uuid="2b76ec8d-59bc-42aa-90e9-dbc48bf4654b" manual="true">
+      <bo>
+        <seg>classifier</seg>
+        <seg>Advertising_System</seg>
+      </bo>
+      <position x="106.06380462646484" y="93.0"/>
+      <size width="175.0143280029297" height="35.0"/>
+    </element>
+    <element uuid="63763fd8-83ef-4db3-adc3-1f4304e5c255" manual="true">
+      <bo>
+        <seg>classifier</seg>
+        <seg>Community_Manager</seg>
+      </bo>
+      <position x="106.06380462646484" y="148.0"/>
+      <size width="184.64974975585938" height="35.0"/>
+    </element>
+    <element uuid="1eff447d-d72b-43b6-a7dc-ef813a071535" manual="true">
+      <bo>
+        <seg>classifier</seg>
+        <seg>Content_Managerr</seg>
+      </bo>
+      <position x="271.44271087646484" y="38.0"/>
+      <size width="168.36719512939453" height="35.0"/>
+    </element>
+    <element uuid="340365f2-91fd-4107-acb2-2c52bd54c4bc" manual="true">
+      <bo>
+        <seg>classifier</seg>
+        <seg>Data_Analysis_Manager</seg>
+      </bo>
+      <position x="106.06380462646484" y="258.0"/>
+      <size width="202.4557342529297" height="35.0"/>
+    </element>
+    <element uuid="37b29a23-67b4-4fa9-a1b2-bab79604101d" manual="true">
+      <bo>
+        <seg>classifier</seg>
+        <seg>Social_Connection_Manager</seg>
+      </bo>
+      <position x="106.06380462646484" y="313.0"/>
+      <size width="228.41275024414062" height="35.0"/>
+    </element>
+    <element uuid="6d27b614-a312-4d6a-8eb3-489f1a5abc01" manual="true">
+      <bo>
+        <seg>classifier</seg>
+        <seg>User_Manager</seg>
+      </bo>
+      <position x="106.06380462646484" y="38.0"/>
+      <size width="145.37890625" height="35.0"/>
+    </element>
+    <element uuid="ee41336b-7852-49d5-aaaf-e7d39e41826a" manual="true">
+      <bo>
+        <seg>classifier</seg>
+        <seg>Vishvakarma_System</seg>
+      </bo>
+      <position x="106.06380462646484" y="203.0"/>
+      <size width="186.12109375" height="35.0"/>
+    </element>
+    <bo>
+      <seg>package</seg>
+      <seg>Vishvakarma</seg>
+    </bo>
+    <position/>
+    <size width="451.80989837646484" height="360.0"/>
+  </element>
+  <config type="package" connectionPrimaryLabelsVisible="false">
+    <enabledAadlProperties/>
+    <context>
+      <seg>package</seg>
+      <seg>Vishvakarma</seg>
+    </context>
+  </config>
+</diagram:Diagram>
